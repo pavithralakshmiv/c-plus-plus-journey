@@ -1,4 +1,4 @@
-# c-plus-plus-journey
+# c++ journey
 My daily C++ practice programs
 
 ## 📅 Day 1
